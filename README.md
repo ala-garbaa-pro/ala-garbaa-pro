@@ -2,7 +2,7 @@
 
 Talks about #devops,  #webdesign, #cybersecurity, and #fullstackdevelopment<br />
 
-<br />
+
 <a target="_blank" href="https://www.linkedin.com/in/ala-garbaa/">LinkedIn</a> •
 <a target="_blank" href="https://www.youtube.com/@ala.garbaa">YouTube</a> •
 <a target="_blank" href="https://twitter.com/ala_garbaa_pro">Twitter</a> •
