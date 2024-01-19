@@ -9,4 +9,4 @@ Talks about #devops,  #webdesign, #cybersecurity, and #fullstackdevelopment<br /
 <a target="_blank" href="https://www.alagarbaa.com/">Home</a> •
 <a target="_blank" href="https://www.alagarbaa.com/blog/">Blog</a> •
 <a target="_blank" href="https://www.alagarbaa.com/projects/">Projects</a> •
-<a target="_blank" href="https://www.alagarbaa.com/questions/">Questions</a> •
+<a target="_blank" href="https://www.alagarbaa.com/questions/">Questions</a>
