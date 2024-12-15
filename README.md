@@ -13,10 +13,7 @@ Talks about #devops,  #webdesign, #cybersecurity, and #fullstackdevelopment<br /
 <br  />
 You may like:   <br  />
 - <a href="https://sv5ql.vercel.app/"><u>Q-Learning Pathfinding Visualizer</u></a> <br  />
-- <a href="https://svcb.vercel.app/"><u>svcb</u></a> <br  />
 - <a href="https://yt-thub-down.vercel.app/"><u>yt-thub-down</u></a> <br  />
-- <a href="https://svplay.vercel.app/"><u>Svelte Kit Playground</u></a> <br  />
-- <a href="https://n8-nfts-svelte.vercel.app/"><u>n8-nfts-svelte</u></a> <br  />
 - <a href="https://svelte-ematchi.vercel.app/"><u>svelte-ematchi</u></a> <br  />
 - <a href="https://nextgramts.vercel.app/"><u>Next Gram TS</u></a> <br  />
 
