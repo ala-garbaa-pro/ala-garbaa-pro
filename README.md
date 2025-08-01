@@ -3,10 +3,6 @@
 <a target="_blank" href="https://www.linkedin.com/in/ala-garbaa/">LinkedIn</a> •
 <a target="_blank" href="https://www.youtube.com/@ala.garbaa">YouTube</a> •
 <a target="_blank" href="https://x.com/ala_garbaa_pro">X</a> •
-<a target="_blank" href="https://www.alagarbaa.com/">Home</a> •
-<a target="_blank" href="https://www.alagarbaa.com/blog/">Blog</a> •
-<a target="_blank" href="https://www.alagarbaa.com/projects/">Projects</a> •
-<a target="_blank" href="https://www.alagarbaa.com/questions/">Questions</a>
 
 <br  />
 You may like:   <br  />
